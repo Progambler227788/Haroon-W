@@ -1,0 +1,6 @@
+
+CREATE PROCEDURE getStudentsAbove25
+AS
+BEGIN
+    SELECT * FROM StudentData WHERE Age > 25;
+END;

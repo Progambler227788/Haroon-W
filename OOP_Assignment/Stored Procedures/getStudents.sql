@@ -1,0 +1,6 @@
+
+CREATE PROCEDURE getStudents
+AS
+BEGIN
+    SELECT * FROM StudentData;
+END;

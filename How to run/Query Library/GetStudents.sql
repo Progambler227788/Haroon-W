@@ -1,0 +1,5 @@
+CREATE PROCEDURE usp_GetStudents
+AS
+BEGIN
+    SELECT * FROM Student;
+END;

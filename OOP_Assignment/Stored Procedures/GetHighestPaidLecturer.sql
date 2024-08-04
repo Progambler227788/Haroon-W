@@ -1,0 +1,5 @@
+CREATE PROCEDURE GetHighestPaidLecturer
+AS
+BEGIN
+    SELECT TOP 1 * FROM LecturerData ORDER BY Pay DESC;
+END;

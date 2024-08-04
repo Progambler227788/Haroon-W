@@ -1,0 +1,12 @@
+D:\C# Haroon\ManagementSoftware\obj\Debug\ManagementSoftware.csproj.AssemblyReference.cache
+D:\C# Haroon\ManagementSoftware\obj\Debug\ManagementSoftware.Form1.resources
+D:\C# Haroon\ManagementSoftware\obj\Debug\ManagementSoftware.Properties.Resources.resources
+D:\C# Haroon\ManagementSoftware\obj\Debug\ManagementSoftware.csproj.GenerateResource.cache
+D:\C# Haroon\ManagementSoftware\obj\Debug\ManagementSoftware.csproj.CoreCompileInputs.cache
+D:\C# Haroon\ManagementSoftware\bin\Debug\ManagementSoftware.exe.config
+D:\C# Haroon\ManagementSoftware\bin\Debug\ManagementSoftware.exe
+D:\C# Haroon\ManagementSoftware\bin\Debug\ManagementSoftware.pdb
+D:\C# Haroon\ManagementSoftware\obj\Debug\ManagementSoftware.exe
+D:\C# Haroon\ManagementSoftware\obj\Debug\ManagementSoftware.pdb
+D:\C# Haroon\ManagementSoftware\obj\Debug\ManagementSoftware.StudentDataEntry.resources
+D:\C# Haroon\ManagementSoftware\obj\Debug\ManagementSoftware.LecturerDataEntry.resources

@@ -1,0 +1,12 @@
+D:\C# Haroon\OOP_Assignment\bin\Debug\OOP_Assignment.exe.config
+D:\C# Haroon\OOP_Assignment\bin\Debug\OOP_Assignment.exe
+D:\C# Haroon\OOP_Assignment\bin\Debug\OOP_Assignment.pdb
+D:\C# Haroon\OOP_Assignment\obj\Debug\OOP_Assignment.csproj.AssemblyReference.cache
+D:\C# Haroon\OOP_Assignment\obj\Debug\OOP_Assignment.Form1.resources
+D:\C# Haroon\OOP_Assignment\obj\Debug\OOP_Assignment.Properties.Resources.resources
+D:\C# Haroon\OOP_Assignment\obj\Debug\OOP_Assignment.csproj.GenerateResource.cache
+D:\C# Haroon\OOP_Assignment\obj\Debug\OOP_Assignment.csproj.CoreCompileInputs.cache
+D:\C# Haroon\OOP_Assignment\obj\Debug\OOP_Assignment.exe
+D:\C# Haroon\OOP_Assignment\obj\Debug\OOP_Assignment.pdb
+D:\C# Haroon\OOP_Assignment\obj\Debug\OOP_Assignment.AddLecturer.resources
+D:\C# Haroon\OOP_Assignment\obj\Debug\OOP_Assignment.AddStudent.resources

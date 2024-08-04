@@ -1,0 +1,5 @@
+CREATE PROCEDURE usp_ClearStudents
+AS
+BEGIN
+    DELETE FROM Student;
+END;

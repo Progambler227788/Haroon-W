@@ -1,0 +1,5 @@
+CREATE PROCEDURE usp_GetBooks
+AS
+BEGIN
+    SELECT * FROM Books;
+END;
